@@ -1,5 +1,5 @@
 # Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project RCT-TWD-ZnoyPalette
-<a href="https://znoypalette.netlify.app/">ZnoyPalette</a>
+<a href="https://znoypalettes.netlify.app/">ZnoyPalette</a>
    
 
 ## Framework used 🔥
